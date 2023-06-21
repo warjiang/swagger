@@ -1,4 +1,4 @@
-module github.com/iris-contrib/swagger
+module github.com/warjiang/swagger
 
 go 1.20
 
